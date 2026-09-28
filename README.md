@@ -4,8 +4,12 @@ JEDAI (Japan Enduser Group | Databricks Innovation) のもくもく会で使う�
 
 メトリクスビューは、集計した表ではなく、指標の計算方法を登録しておくビューです。数字そのものは持たず、どの単位で計算するかは聞く人が決めます。この1行を手で確かめるための教材です。
 
-- イベント: [Databricks メトリクスビュー はじめてのもくもく会](https://jedai.connpass.com/event/407004/) (2026年10月21日 18:30〜20:00 オンライン)
-- 説明記事: [集計済みのビューを配るのをやめる。Databricksメトリクスビューを触ってみた \#SQL \- Qiita](https://qiita.com/taka_yayoi/items/bcb8f5729e162d851e79)
+イベント: [Databricks メトリクスビュー はじめてのもくもく会](https://jedai.connpass.com/event/407004/) (2026年10月21日 18:30〜20:00 オンライン)
+
+当日の資料です。ノートブックを動かす前に目を通しておくと、何を確かめようとしているのかが分かります。
+
+- 副読本: [集計済みのビューを配るのをやめる。Databricksメトリクスビューを触ってみた](https://qiita.com/taka_yayoi/items/bcb8f5729e162d851e79)
+- 座学スライド: [Databricksメトリクスビューはじめてのもくもく会](https://speakerdeck.com/taka_aki/databricks-hajimete-no-mokumokukai)
 
 ## ファイル
 
